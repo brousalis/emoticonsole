@@ -1,0 +1,24 @@
+{
+  "name": "emoticonsole",
+  "version": "0.0.1",
+  "description": "overrides console.log to support shorthand emoji :poop:",
+  "author": "Pete Brousalis <brousapg@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brousalis/emoticonsole.git"
+  },
+  "keywords": [
+    "emoji",
+    "emojis",
+    "emoticon",
+    "emoticons",
+    "console",
+    "consolelog",
+    "log",
+    "logging"
+  ],
+  "bugs": {
+    "url": "https://github.com/brousalis/emoticonsole/issues"
+  },
+  "main": "index.js"
+}
