@@ -1,6 +1,6 @@
 # emoticonsole
 
-overrides console.log to support shorthand emoji like :poop:
+overrides console.log to support shorthand emoji like :emoji:
 
 ## Installation
 
@@ -8,5 +8,5 @@ overrides console.log to support shorthand emoji like :poop:
 
 ## Usage
 ```javascript
-console.log('testing :penguin', ':poop')
+console.log('testing :penguin:', ':poop') // will print 'testing :penguin: :poop:'
 ```
