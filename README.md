@@ -2,7 +2,7 @@
 
 overrides console.log to support shorthand emoji like `:emoji:`
 
-![omg](http://i.imgur.com/A62dpON.gifv)
+![omg](http://i.imgur.com/A62dpON.gif)
 
 ### Installation
 
