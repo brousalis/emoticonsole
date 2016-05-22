@@ -2,11 +2,13 @@
 
 overrides console.log to support shorthand emoji like :emoji:
 
-## Installation
+### Installation
 
-`npm install --save emoticonsole`
+`npm install --save-dev emoticonsole`
+
+`bower install --save-dev emoticonsole`
 
 ## Usage
 ```javascript
-console.log('testing :penguin:', ':poop') // will print 'testing :penguin: :poop:'
+console.log('testing :penguin:', ':poop')
 ```
